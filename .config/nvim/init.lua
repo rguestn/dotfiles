@@ -1,0 +1,5 @@
+require('keymaps')
+require('plugins.lazy')
+require('plugins.obsidian')
+require('options')
+require('misc')
